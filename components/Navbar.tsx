@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
       <Link href="/">
-        <Image src="/logo.png" alt="logo" width={150} height={50} />
+        <Image src="/logo.png" alt="logo" width={60} height={60} />
       </Link>
 
       <ul className="hidden h-full gap-12 lg:flex">
@@ -27,7 +27,7 @@ const Navbar = () => {
           type="button"
           title="Login"
           icon="/user.svg"
-          variant="btn_dark_green"
+          variant="btn_dark_pink"
         />
       </div>
 

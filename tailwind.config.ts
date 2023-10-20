@@ -8,9 +8,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        green: {
-          50: "#30AF5B",
-          90: "#292C27",
+        pink: {
+          50: "#fcacac",
+          90: "#bd4b4b",
         },
         gray: {
           10: "#EEEEEE",
@@ -33,8 +33,7 @@ module.exports = {
         "bg-img-1": "url('/img-1.png')",
         "bg-img-2": "url('/img-2.png')",
         "feature-bg": "url('/feature-bg.png')",
-        pattern: "url('/pattern.png')",
-        "pattern-2": "url('/pattern-bg.png')",
+        hero: "url('/img-1.png')",
       },
       screens: {
         xs: "400px",
