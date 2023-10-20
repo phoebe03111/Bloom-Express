@@ -10,7 +10,7 @@ module.exports = {
       colors: {
         pink: {
           50: "#fcacac",
-          90: "#bd4b4b",
+          90: "#5e1010",
         },
         gray: {
           10: "#EEEEEE",
@@ -31,7 +31,7 @@ module.exports = {
       },
       backgroundImage: {
         "bg-img-1": "url('/img-3.png')",
-        "bg-img-2": "url('/img-2.png')",
+        "bg-img-2": "url('/img-4.png')",
         "feature-bg": "url('/feature-bg.png')",
         hero: "url('/img-1.png')",
       },
