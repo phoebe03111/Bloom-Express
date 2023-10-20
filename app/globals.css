@@ -129,8 +129,8 @@ body {
     @apply absolute right-0 top-0 h-screen w-screen bg-hero bg-cover bg-top;
   }
 
-  /* Camp */
-  .camp-quote {
+  /* Carousel */
+  .quote {
     @apply absolute -right-6 bottom-4 w-[140px] lg:bottom-10 xl:-right-8 xl:w-[186px] 3xl:right-0;
   }
 
