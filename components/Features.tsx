@@ -5,18 +5,7 @@ const Features = () => {
   return (
     <section className="flex-col flexCenter overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24">
       <div className="max-container padding-container relative w-full flex justify-end">
-        {/* Left */}
-        <div className="flex flex-1 lg:min-h-[900px]">
-          <Image
-            src="/app.svg"
-            alt="app"
-            width={500}
-            height={500}
-          />
-        </div>
-
-        {/* Right */}
-        <div className="z-20 flex w-full flex-col lg:w-[60%]">
+        <div className="flex w-full flex-col">
           <div className="relative">
             <Image
               src="/flowers.png"
