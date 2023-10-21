@@ -42,3 +42,40 @@ export const FEATURES = [
       "Elevate your space with a continuous infusion of beauty through Bloom Express's Subscription Blossoms feature. Enjoy regularly scheduled flower deliveries, each time bringing the freshness and vibrancy of Bloom Express to your doorstep, making every day a celebration of nature's elegance.",
   },
 ];
+
+// FOOTER SECTION
+export const FOOTER_LINKS = [
+  {
+    title: "Learn More",
+    links: [
+      "Environment",
+      "Shipping",
+      "Privacy Policy",
+      "Contact Us",
+      "FAQs",
+    ],
+  },
+  {
+    title: "About Us",
+    links: ["About Bloom Express", "Our blog", "Career"],
+  },
+];
+
+export const FOOTER_CONTACT_INFO = {
+  title: "Contact Us",
+  links: [
+    { label: "Admin Officer", value: "123-456-7890" },
+    { label: "Email Officer", value: "hello@abloomexpress.ca" },
+  ],
+};
+
+export const SOCIALS = {
+  title: "Social",
+  links: [
+    "/facebook.svg",
+    "/instagram.svg",
+    "/twitter.svg",
+    "/youtube.svg",
+    "/wordpress.svg",
+  ],
+};
