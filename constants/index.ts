@@ -65,7 +65,7 @@ export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
     { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hello@abloomexpress.ca" },
+    { label: "Email Officer", value: "hello@bloomexpress.ca" },
   ],
 };
 
